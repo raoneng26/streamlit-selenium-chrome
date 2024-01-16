@@ -1,5 +1,6 @@
 streamlit
 seleniumbase
+selenium 
 webdriver-manager
 os
 sys
