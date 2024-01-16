@@ -2,4 +2,3 @@ streamlit
 seleniumbase
 selenium 
 webdriver-manager
-sys
