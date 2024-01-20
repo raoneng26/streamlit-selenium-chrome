@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from time import sleep
 
 
-@st.cache_data
+@st.cache
 def installff():
   os.system('sbase install geckodriver')
   os.system('ln -s /home/appuser/venv/lib/python3.7/site-packages/seleniumbase/drivers/geckodriver /home/appuser/venv/bin/geckodriver')
