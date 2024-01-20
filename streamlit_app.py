@@ -18,7 +18,7 @@ def installff():
 _ = installff()
 opts = FirefoxOptions()
 #-----------------------------------------------云部署必须开启无头模式---------------------------------------------
-# opts.add_argument("--headless")    
+opts.add_argument("--headless")    
 driver = webdriver.Firefox(options=opts)
 
 # # driver.get('http://example.com')
