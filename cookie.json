@@ -1,15 +1,15 @@
 [
-    {"name": "SINAGLOBAL", "value": "1977166912813.7327.1686985776799"},
-    {"name": "UOR", "value": ",,www.bing.com"},
-    {"name": "XSRF-TOKEN", "value": "H9y8lUNyoXN4rFPy2Co0Yvfc"},
-    {"name": "PC_TOKEN", "value": "2958c26e46"},
-    {"name": "login_sid_t", "value": "06b6f30110f8a047dfbbdc1f14a73a92"},
-    {"name": "cross_origin_proto", "value": "SSL"},
-    {"name": "_s_tentry", "value": "www.bing.com"},
-    {"name": "Apache", "value": "7726452203095.371.1713865488205"},
-    {"name": "ULV", "value": "1713865488206:12:1:1:7726452203095.371.1713865488205:1709632934477"},
-    {"name": "ALF", "value": "1716457510"},
-    {"name": "SUB", "value": "_2A25LI_N2DeRhGeFG6FEQ9CfPwjSIHXVoQQq-rDV8PUJbkNAGLXDykW1NedE-3XYvMIx0_inF5MyCRxAO_m3BMsVp"},
-    {"name": "SUBP", "value": "0033WrSXqPxfM725Ws9jqgMF55529P9D9W5fICXaYkWNZMennPGqHKnM5JpX5KzhUgL.FoMRe0epSh.01Kn2dJLoIX-LxKBLB.2L1K2LxKMLBK5LBoBLxKqL1-eL1hnLxKqL1-BLBK-LxKnL122LBo2LxK-LB.eL1hBLxK-LB.BLBo2Eehz0ehBt"},
-    {"name": "WBPSESS", "value": "GQxQLimTOMcM2ocrwSHczFSgtXH2v0bhzdCoblXDgKp3JkFRk9Zu9hqXeu6XDefa4AgAkRVaXHkI9o4ql5aTsVb1VESY0Tp516EUUdfv6B0vs3ra1rYVteDZ-TpftLVCj3xm9uEZA2NMVgu1hQyDcw=="}
+    {"name": "SINAGLOBAL", "value": "1977166912813.7327.1686985776799", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "UOR", "value": ",,www.bing.com", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "XSRF-TOKEN", "value": "H9y8lUNyoXN4rFPy2Co0Yvfc", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "PC_TOKEN", "value": "2958c26e46", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "login_sid_t", "value": "06b6f30110f8a047dfbbdc1f14a73a92", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "cross_origin_proto", "value": "SSL", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "_s_tentry", "value": "www.bing.com", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "Apache", "value": "7726452203095.371.1713865488205", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "ULV", "value": "1713865488206:12:1:1:7726452203095.371.1713865488205:1709632934477", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "ALF", "value": "1716457510", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "SUB", "value": "_2A25LI_N2DeRhGeFG6FEQ9CfPwjSIHXVoQQq-rDV8PUJbkNAGLXDykW1NedE-3XYvMIx0_inF5MyCRxAO_m3BMsVp", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": true, "sameSite": "None"},
+    {"name": "SUBP", "value": "0033WrSXqPxfM725Ws9jqgMF55529P9D9W5fICXaYkWNZMennPGqHKnM5JpX5KzhUgL.FoMRe0epSh.01Kn2dJLoIX-LxKBLB.2L1K2LxKMLBK5LBoBLxKqL1-eL1hnLxKqL1-BLBK-LxKnL122LBo2LxK-LB.eL1hBLxK-LB.BLBo2Eehz0ehBt", "path": "/", "domain": ".weibo.com", "secure": true, "httpOnly": false, "sameSite": "None"},
+    {"name": "WBPSESS", "value": "GQxQLimTOMcM2ocrwSHczFSgtXH2v0bhzdCoblXDgKp3JkFRk9Zu9hqXeu6XDefa4AgAkRVaXHkI9o4ql5aTsVb1VESY0Tp516EUUdfv6B0vs3ra1rYVteDZ-TpftLVCj3xm9uEZA2NMVgu1hQyDcw==", "path": "/", "domain": "weibo.com", "secure": true, "httpOnly": true, "sameSite": "None"}
 ]
